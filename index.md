@@ -1,5 +1,4 @@
-**Comments and corrections on this brief history are welcome. For more
-pictures, see [the image gallery](/image/tid/3).**
+**Comments and corrections on this brief history are welcome.**
 
 ![5 Forrest Hill](images/DSCF1168-small.JPG)
 
@@ -38,11 +37,9 @@ The OS map of 1852 (avialable from
 Scotland](http://www.nls.uk/maps/townplans/edinburgh1056_1_sw.html))
 shows the West wing of the Edinburgh Poor House to be located where the
 northmost part of the current building (right) stands.
-\[img\_assist|nid=29|title=West wing of Edinburgh Poor
-House|desc=|link=node|align=right|width=150|height=200\] The wing is
-marked as being for women and children. The wing does not appear in
-[Kirkwood's 1817 plan of
-Edinburgh](http://www.nls.uk/maps/early/416.html). Birnie does not
+![West wing of Edinburgh Poor House](images/DSCF1174-small.JPG) 
+The wing is marked as being for women and children. The wing does not appear in
+[Kirkwood's 1817 plan of Edinburgh](http://www.nls.uk/maps/early/416.html). Birnie does not
 mention the building of this wing, though he does mention the problems
 that the managers of the Charity Workhouse had in the mid-nineteenth
 century accomdating children.
