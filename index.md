@@ -1,11 +1,11 @@
 **Comments and corrections on this brief history are welcome. For more
 pictures, see [the image gallery](/image/tid/3).**
 
-\[img\_assist|nid=28|title=5 Forrest Hill|desc=(Click on image for
-enlarged version.)|link=node|align=right|width=150|height=200\]The
-building at 5 Forrest Hill, until 2008 occupied by the University of
-Edinburgh School of Informatics, comprises three historically distinct
-portions:
+![5 Forrest Hill](images/DSCF1168-small.JPG)
+
+The building at 5 Forrest Hill, until 2008 occupied by the University
+of Edinburgh School of Informatics, comprises three historically
+distinct portions:
 
 -   The garage, originally built as a Drill Hall in 1871
 -   The northmost part of the building, which abuts Greyfriars Kirkyard.
