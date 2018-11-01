@@ -7,7 +7,7 @@ of Edinburgh School of Informatics, comprises three historically
 distinct portions:
 
 -   The garage, originally built as a Drill Hall in 1871
--   The northmost part of the building, which abuts Greyfriars Kirkyard.
+-   The north-most part of the building, which abuts Greyfriars Kirkyard.
     This section was built as part of the former Poor House, or Charity
     Workhouse, some time between 1817 and 1852
 -   The central part of the building containing the frontage and the
@@ -31,18 +31,24 @@ be housed and set to work". According to Peter Higginbotham on
 > theatres. It was a substantial establishment that, in 1777-8, could
 > accommodate 484 adults and 180 children.
 
-The OS map of 1852 (avialable from
+The OS map of 1852 (available from
 [workhouses.org.uk](http://www.workhouses.org.uk/Edinburgh) or the
 [National Library of
 Scotland](http://www.nls.uk/maps/townplans/edinburgh1056_1_sw.html))
 shows the West wing of the Edinburgh Poor House to be located where the
-northmost part of the current building (right) stands.
-![West wing of Edinburgh Poor House](images/DSCF1174-small.JPG) 
+north-most part of the current building (right) stands.
+
+![West wing of Edinburgh Poor House](images/DSCF1174-small.JPG)
+
+*West wing of Edinburgh Poor House. The OS map from 1852 describes
+this as "The West Wing, for Women and Children" of the Edinburgh
+Poorhouse. It does not appear in Kirkwood's plan of 1817.*
+
 The wing is marked as being for women and children. The wing does not appear in
 [Kirkwood's 1817 plan of Edinburgh](http://www.nls.uk/maps/early/416.html). Birnie does not
 mention the building of this wing, though he does mention the problems
 that the managers of the Charity Workhouse had in the mid-nineteenth
-century accomdating children.
+century accommodating children.
 
 Part of the original Poor House building, constructed in 1743, still
 exists. It is the building shown in the first picture at the right
@@ -50,28 +56,40 @@ exists. It is the building shown in the first picture at the right
 building was demolished to make way for the Drill Hall in 1871, but one
 end of the "Main Wing" (as it is denoted on the 1852 OS map) remains.
 
-\[img\_assist|nid=26|title=A perspective view of the Poor House of
-Edinburgh as it now stands unfinished|desc= © City of Edinburgh Council
-[Capital
-Collections](http://www.capitalcollections.org.uk/)|link=node|align=left|width=200|height=129\]Elphinstone's
-engraving *A Perspective View of the Poor House of Edinburgh as it now
-stands unfinished* shows how the Poor House would have looked shortly
-after it was built. The remaining section is the rightmost section of
-the building. The caption to the engraving suggests that the Poor House
-was intended to be larger. Another contemporary engraving of the Poor
-House, from Maitland's 1753 *History of Edinburgh*, shows the Poor House
-with two wings projecting out from the Main Wing, but there is no
-evidence that these were built at the time. However, according to the
-maps, between 1817 and 1852, the buildings on the north side of Forrest
-Hill but to the east of the Poor House remnant already mentioned were
-built.\[img\_assist|nid=30|title=Maitland's engraving of the
-workhouse|desc=|link=node|align=right|width=200|height=111\]
+![A perspective view of the Poor House of Edinburgh as it now stands unfinished](images/5419-small.jpg)
+
+*A perspective view of the Poor House of Edinburgh as it now stands
+unfinished. This engraving by John Elphinstone shows the Poor House as
+it would have looked very shortly after it was built in 1743. The
+"unfinished" in the engraving caption suggests that the Poor House was
+originally intended to be larger, perhaps with extra wings, as shown
+in Maitland's engraving. However, the city maps suggest that the Poor
+House was not extended until some time between 1817 and 1845. This
+image is copyright City of Edinburgh Council and is reproduced with
+permission. For more information about the image, see the
+[Capital Collections](http://www.capitalcollections.org.uk/) website.*
+
+Elphinstone's engraving *A Perspective View of the Poor House of
+Edinburgh as it now stands unfinished* shows how the Poor House would
+have looked shortly after it was built. The remaining section is the
+rightmost section of the building. The caption to the engraving
+suggests that the Poor House was intended to be larger. Another
+contemporary engraving of the Poor House, from Maitland's 1753
+*History of Edinburgh*, shows the Poor House with two wings projecting
+out from the Main Wing, but there is no evidence that these were built
+at the time. However, according to the maps, between 1817 and 1852,
+the buildings on the north side of Forrest Hill but to the east of the
+Poor House remnant already mentioned were built.
+
+![Maitland's engraving of the charity workhouse](images/maitland-workhouse.jpg)
+
+*Maitland's engraving of the charity workhouse*
 
 According to Birnie, in 1870 a new Poor House was opened at
-Craiglockhart Hill, and the Charity Workhouse was demonlished to make
+Craiglockhart Hill, and the Charity Workhouse was demolished to make
 way for the new Drill Hall. In fact the maps suggest that part of the
 Poor House remained. A [contemporary description of the new Poor House
-at Craoglockhart](http://www.workhouses.org.uk/Edinburgh) is available
+at Craiglockhart](http://www.workhouses.org.uk/Edinburgh) is available
 from [www.workhouses.org.uk](http://www.workhouses.org.uk).
 
 There is also [some information on the Charity
@@ -98,66 +116,76 @@ the Lothian Health Service Archive:
 
 ### 1872-1990 Army
 
-\[img\_assist|nid=19|title=Plaque on the side of Greyfriars
-Kirk|desc=|link=node|align=right|width=150|height=200\]According to the
-[Dictionary of Scottish
-Architects](http://www.scottisharchitects.org.uk/building_full.php?id=208853)
+![Plaque on the side of Greyfriars Kirk](images/DSCF1190-small_7.JPG)
+
+*Plaque on side of Greyfriars Kirk, which reads: Regiment raised 1859.
+Headquarters rebuilt and opened 6th May 1905 by HRH the Duke of
+Connaught KT. Colonel Sir Robert Cranston VD. Colonel Comandant of
+Brigade. Lord Provost of the City.*
+
+According to the
+[Dictionary of Scottish Architects](http://www.scottisharchitects.org.uk/building_full.php?id=208853)
 the Drill Hall was constructed in 1872, designed by the practice of
-[Stewart and
-Menzies](http://www.scottisharchitects.org.uk/architect_full.php?id=201733),
+[Stewart and Menzies](http://www.scottisharchitects.org.uk/architect_full.php?id=201733),
 who had been involved in a faulty water supply scheme for Dundee.
 According to the plaque on the side of Greyfriars Kirk, the Drill Hall
 was opened on 21st December 1872 and was occupied at first by the
-Queen's City of Edinburgh Volunteer Rifle Brigade, and then a succession
-of battalions and regiments, being joined by the University of Edinburgh
-Officer Training Corps in 1957.
+Queen's City of Edinburgh Volunteer Rifle Brigade, and then a
+succession of battalions and regiments, being joined by the University
+of Edinburgh Officer Training Corps in 1957.
 
-\[img\_assist|nid=31|title=The entrance, with carved
-inscription|desc=|link=node|align=left|width=200|height=150\]According
-to the [Dictonary of Scottish
-Architects](http://www.scottisharchitects.org.uk/building_full.php?id=201495),
+![The entrance, with carved inscription](images/DSCF1170-small.preview.JPG)
+
+*The entrance, with carved inscription which reads: "The Queens Rifle
+Volunteer Brigade The Royal Scots. Headquarters."*
+
+According to the
+[Dictionary of Scottish Architects](http://www.scottisharchitects.org.uk/building_full.php?id=201495),
 an extension to the 1872 Drill Hall and HQ for the Queen's Rifle
 Volunteer Brigade, The Royal Scots was constructed between 1902 and
 1904, and is now B-listed. This is the centre part of the building,
-which contains the entrance with the carved inscription and the plaque.
-However, in the 1894 OS map the centre part of the building already
-appears to exist, though it is not in the 1877 OS plan. *Building News*
-of 2 September 1904 reported:
+which contains the entrance with the carved inscription and the
+plaque. However, in the 1894 OS map the centre part of the building
+already appears to exist, though it is not in the 1877 OS plan.
+*Building News* of 2 September 1904 reported:
 
 > EDINBURGH. - Progress is being made with the erection of the new
-> headquarters in Forrest-road, for the Queen's Rifle Volunteer Brigade
-> (Royal Scots). In view of the building being much inclosed, and also
-> with the object of keeping down expenses, no attempt has been made at
-> an elaborately decorated exterior. The general design is a simple form
-> of the Scottish Baronial style, and the walls are rubble covered with
-> harl. The aspect to Lauriston has two crow-stepped gables, the larger
-> of which contains the lecture hall and has circular corbelled turrets
-> at the corners. The main entrance is situated under a projecting
-> porch, and on the left leads immediately to the drill-hall and the
-> orderly-room, and on the right to the main staircase. In communication
-> \[img\_assist|nid=59|title=Inscription over door in 2015|desc=By 2015
-> the inscription above the door had been restored. Photo courtesy of
-> George Ross.|link=node|align=right|width=200|height=133\]with the
-> orderly-room is the adjutant's room. That again leads to the
-> commanding officers’ room, in direct communication with the present
-> drill-hall. To the rear is a store for six machine guns, a store for
-> camp supplies, and the armoury, which has accommodation for 3,000
-> rifles. To the right of the main entrance is the store for the baggage
-> waggons, and part of the north wing will be devoted to storage.
-> Officers' quarters are on the first floor, and a circular staircase
-> leads up to the lecture-hall floor. On the same floor is a suite of
-> four company meeting rooms, the largest 20 feet by 39 feet, and the
-> smallest 15ft. by 18 feet. The medical officer's room is also on this
-> flat, and the gymnasium, which will measure 46 feet long by 25 feet.
+> headquarters in Forrest-road, for the Queen's Rifle Volunteer
+> Brigade (Royal Scots). In view of the building being much inclosed,
+> and also with the object of keeping down expenses, no attempt has
+> been made at an elaborately decorated exterior. The general design
+> is a simple form of the Scottish Baronial style, and the walls are
+> rubble covered with harl. The aspect to Lauriston has two
+> crow-stepped gables, the larger of which contains the lecture hall
+> and has circular corbelled turrets at the corners. The main entrance
+> is situated under a projecting porch, and on the left leads
+> immediately to the drill-hall and the orderly-room, and on the right
+> to the main staircase. In communication with the orderly-room is the
+> adjutant's room. That again leads to the commanding officers’ room,
+> in direct communication with the present drill-hall. To the rear is
+> a store for six machine guns, a store for camp supplies, and the
+> armoury, which has accommodation for 3,000 rifles. To the right of
+> the main entrance is the store for the baggage waggons, and part of
+> the north wing will be devoted to storage. Officers' quarters are on
+> the first floor, and a circular staircase leads up to the
+> lecture-hall floor. On the same floor is a suite of four company
+> meeting rooms, the largest 20 feet by 39 feet, and the smallest
+> 15ft. by 18 feet. The medical officer's room is also on this flat,
+> and the gymnasium, which will measure 46 feet long by 25 feet.
 > broad, with an 18 feet roof. Adjoining will be a lavatory, with two
-> shower-baths, and in the entresol a dressing room. On the second floor
-> will be the sergeants' mess and a billiard-room, with a service-room
-> connecting the two. The north-west block of this flat will be used a
-> recreation place for the men, a room 26ft. by 25ft. On the third floor
-> will be the lecture-hall. The architects are Messrs Cooper and Taylor,
-> 20, Frederick-street, Edinburgh.(p 323, cited from the [Dictonary of
-> Scottish
-> Architects](http://www.scottisharchitects.org.uk/building_full.php?id=201495))
+> shower-baths, and in the entresol a dressing room. On the second
+> floor will be the sergeants' mess and a billiard-room, with a
+> service-room connecting the two. The north-west block of this flat
+> will be used a recreation place for the men, a room 26ft. by 25ft.
+> On the third floor will be the lecture-hall. The architects are
+> Messrs Cooper and Taylor, 20, Frederick-street, Edinburgh.(p 323,
+> cited from the
+> [Dictionary of Scottish Architects](http://www.scottisharchitects.org.uk/building_full.php?id=201495))
+
+![Inscription over door in 2015](images//IMG_1288-50.jpg)
+
+*By 2015 the inscription above the door had been restored. Photo
+courtesy of George Ross.*
 
 ### 1969-present: University
 
@@ -239,3 +267,14 @@ Retrieved on 13 August 2014.
 Dawson, Joanna. *Crockery from Craiglockhart Poorhouse, Edinburgh*. MA
 Dissertation, University of Glasgow, 2000.
 <http://www.poorhouse.org.uk/dissertation/chapter-1.html#1.4>
+
+<!--  LocalWords:  Informatics Greyfriars Kirkyard th Birnie Bristo
+ -->
+<!--  LocalWords:  Neilson McVey Heriot Kirkwood's Elphinstone Brodie
+ -->
+<!--  LocalWords:  Maitland's Elphinstone's Craiglockhart Cassell's
+ -->
+<!--  LocalWords:  Lothian Lauriston Connaught Cranston Comandant
+ -->
+<!--  LocalWords:  Blackwatch Kursk fullpost Cassell
+ -->
