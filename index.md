@@ -136,7 +136,7 @@ of Edinburgh Officer Training Corps in 1957.
 
 ![The entrance, with carved inscription](images/DSCF1170-small.JPG)
 
-*The entrance, with carved inscription which reads: "The Queens Rifle
+*The entrance, with carved inscription, which reads: "The Queens Rifle
 Volunteer Brigade The Royal Scots. Headquarters."*
 
 According to the
