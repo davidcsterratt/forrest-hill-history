@@ -259,14 +259,14 @@ Cassell & Company Ltd.
 Howe, Jim. "Artificial Intelligence at Edinburgh University : a
 Perspective".[http://www.inf.ed.ac.uk/about/AIhistory.html](http://www.inf.ed.ac.uk/about/AIhistory.html)
 
-Higginbotham, Peter.  <http://www.workhouses.org.uk/Edinburgh>,
+Higginbotham, Peter. <http://www.workhouses.org.uk/Edinburgh>,
 Retrieved on 13 August 2014.
 
 ### Bibliography
 
 Dawson, Joanna. *Crockery from Craiglockhart Poorhouse, Edinburgh*. MA
 Dissertation, University of Glasgow, 2000.
-<http://www.poorhouse.org.uk/dissertation/chapter-1.html#1.4>
+<https://web.archive.org/web/20080913232507/http://www.poorhouse.org.uk:80/dissertation/chapter-1.html#1.4>
 
 <!--  LocalWords:  Informatics Greyfriars Kirkyard th Birnie Bristo
  -->
