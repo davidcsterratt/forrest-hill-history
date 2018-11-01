@@ -226,14 +226,13 @@ Drill Hall, and this is now occupied by a large teaching lab.
 > place.
 
 The former Drill Hall has been used as a Fringe venue ([number
-109](http://www.festivals.ed.ac.uk/venue_drill.asp)) on a number of
+109](https://web.archive.org/web/20090611015945/http://www.festivals.ed.ac.uk:80/venue_drill.asp)) on a number of
 occasions:
 
--   2006, when it hosted the National Theatre of Scotland's acclaimed
-    production
-    [*Blackwatch*](http://www.festivals.ed.ac.uk/show_blackwatch.asp)
+- 2006, when it hosted the National Theatre of Scotland's acclaimed
+    production *Blackwatch*
 -   2007, when there was [collaboration with the Traverse
-    Theatre](http://www.festivals.ed.ac.uk/venue_drill.asp).
+    Theatre](https://web.archive.org/web/20090611015945/http://www.festivals.ed.ac.uk:80/venue_drill.asp).
 -   2009, when it hosted [Sound&Fury's](http://www.soundandfury.org.uk)
     production of [*Kursk*](http://www.soundandfury.org.uk/kursk.html),
     described as "<span class="fullpost">a truly immersive piece of
@@ -257,7 +256,7 @@ Grant, James. *Cassell's Old and New Edinburgh*. Div. III. London:
 Cassell & Company Ltd.
 
 Howe, Jim. "Artificial Intelligence at Edinburgh University : a
-Perspective".[http://www.inf.ed.ac.uk/about/AIhistory.html](http://www.inf.ed.ac.uk/about/AIhistory.html)
+Perspective". [http://www.inf.ed.ac.uk/about/AIhistory.html](http://www.inf.ed.ac.uk/about/AIhistory.html)
 
 Higginbotham, Peter. <http://www.workhouses.org.uk/Edinburgh>,
 Retrieved on 13 August 2014.
