@@ -257,7 +257,7 @@ Grant, James. *Cassell's Old and New Edinburgh*. Div. III. London:
 Cassell & Company Ltd.
 
 Howe, Jim. "Artificial Intelligence at Edinburgh University : a
-Perspective".[http://www.inf.ed.ac.uk/about/AIhistory.html](%20http://www.inf.ed.ac.uk/about/AIhistory.html)
+Perspective".[http://www.inf.ed.ac.uk/about/AIhistory.html](http://www.inf.ed.ac.uk/about/AIhistory.html)
 
 Higginbotham, Peter.  <http://www.workhouses.org.uk/Edinburgh>,
 Retrieved on 13 August 2014.
