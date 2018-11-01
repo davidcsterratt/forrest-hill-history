@@ -134,7 +134,7 @@ Queen's City of Edinburgh Volunteer Rifle Brigade, and then a
 succession of battalions and regiments, being joined by the University
 of Edinburgh Officer Training Corps in 1957.
 
-![The entrance, with carved inscription](images/DSCF1170-small.preview.JPG)
+![The entrance, with carved inscription](images/DSCF1170-small.JPG)
 
 *The entrance, with carved inscription which reads: "The Queens Rifle
 Volunteer Brigade The Royal Scots. Headquarters."*
