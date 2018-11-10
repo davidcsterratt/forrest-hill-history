@@ -1,4 +1,6 @@
+---
 title: A brief history of the University of Edinburgh Forrest Hill building
+---
 
 **Comments and corrections on this brief history are welcome.**
 
