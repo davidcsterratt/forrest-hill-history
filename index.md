@@ -1,3 +1,5 @@
+title: A brief history of the University of Edinburgh Forrest Hill building
+
 **Comments and corrections on this brief history are welcome.**
 
 ![5 Forrest Hill](images/DSCF1168-small.JPG)
