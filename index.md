@@ -2,6 +2,8 @@
 
 ![5 Forrest Hill](images/DSCF1168-small.JPG)
 
+*5 Forrest Hill*
+
 The building at 5 Forrest Hill, until 2008 occupied by the University
 of Edinburgh School of Informatics, comprises three historically
 distinct portions:
