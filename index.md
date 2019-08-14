@@ -200,7 +200,7 @@ the Army. Until circa 1990, the Army and the University shared the
 building. The Drill Hall was used as a garage for army and university
 vehicles. Until June 2008, the Department of Artificial Intelligence
 (and forerunners) and then the School of Informatics or its forerunners
-occupied the building. According to Jim Howe, head of the Department of
+occupied the building. [According to Jim Howe](http://www.inf.ed.ac.uk/about/AIhistory.html), head of the Department of
 Artificial intelligence from 1977 to 1996, notable work carried out in
 the building included the construction of "the FREDDY II robot which was
 capable of assembling objects automatically from a heap of parts".
